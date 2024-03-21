@@ -1,0 +1,3 @@
+# Collab vs. Solo Artist
+## Analysis
+The majority of the songs appearing on this list of most-streamed Spotify songs are released by solo artists, though collaborating artist to make up a large portion. What is most significant, though, is that the solo artists make up well over half of the names in the dataset, and that is not counting if they appear on another entry when collaborating with another artist. According to this dataset, there is no detriment to launching a career as a solo artist, in fact, appearing as a solo act seems to be the most popular and most successful method for pursuing a career in the music industry.
