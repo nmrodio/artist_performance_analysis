@@ -10,7 +10,7 @@ Find correlationship between "Acousticness Score" and "Streaming Success". In ot
 <img width="351" alt="image" src="https://github.com/nmrodio/artist_performance_analysis/assets/157546001/3d450fa6-8a83-41f9-b094-8d3ce5f0e3a0">
 
 
-Our team concluded that "Scatter Chart" woud be the most effective to get correlation between "Acousticness Score" and "Streaming Success", so we followed the steps below.
+Our team concluded that **"Scatter Chart"** woud be the most effective to get correlation between "Acousticness Score" and "Streaming Success", so we followed the steps below.
 
 * **Build up** : From the original data (exported from Kaggle), we extract only necessary data for this topic. (Score of Acousticness, Total number of Stream).
 * **Refine** : Sort out the data for plotting scatter chart. First, we refine the data format for accuracy. Second, we define the values for chart, linear regression.
