@@ -1,5 +1,6 @@
 # Spotify Artist Performance Analysis
-
+## Presentation link
+https://docs.google.com/presentation/d/1pIlKpr7nOltnwT3XbpoCl8N39OrOgfPFrHyOg4bVkvo/edit?usp=sharing
 ## Challenge Description
 For the first group project of the UC Berkeley Data Analytic Bootcamp, we were assigned to groups of 5 or 6 students, and given the freedom to select a dataset of our choosing. We then needed to clean the dataset and perform an analysis using questions that we as a group formulated while researching datasets.
 
@@ -42,8 +43,28 @@ The final analysis of music release trends reveals intriguing insights into indu
 
 
 ## Resources
+Bootcamp challenges that we heavily drew inspiration from include the following:
+- The Scatterpy Challenge
+  - Demonstrates linear regression, and how to generate scatter plots
+- The Family travel challenge
+   - Demonstrates how to combine and rename data frames using several CSV files
+- The Correlation Conundrum Challenge
+    - Demonstrates the pearson r score and how to calculate a correlation coefficient
+- The Py Pie challenge
+    - Demonstrates how to generate a pie chart
+      
+- ![Screenshot 2024-03-11 at 12 14 17 PM](https://github.com/erinengle2024/Matplotlib-Stats-Challenge/assets/158017994/9de7c837-6508-4633-9196-bff58c6822ec)
+- ![Screenshot 2024-03-11 at 12 17 26 PM](https://github.com/erinengle2024/Matplotlib-Stats-Challenge/assets/158017994/20cef8c7-24e5-42b3-b847-edb8a9cbd9d4)
+- ![Screenshot 2024-03-11 at 12 12 16 PM](https://github.com/erinengle2024/Matplotlib-Stats-Challenge/assets/158017994/7613b3c5-3033-4bfe-bfc2-131918f95ef0)
+- ![Screenshot 2024-03-11 at 12 12 45 PM](https://github.com/erinengle2024/Matplotlib-Stats-Challenge/assets/158017994/6527cc5e-2a8a-4466-a139-94a748b79299)
+- ![Screenshot 2024-03-24 at 3 36 36 PM](https://github.com/erinengle2024/bootcampwk1/assets/158017994/8ee84f6e-afd7-4303-8efc-9cd60895d91a)
+
+
+  
+  
 
 ## Additional Resources
+For syntax that the group was not familiar with, we used resources such as the Xpert Learning Assistant, provided by UC Berkely Bootcamp, Pandas Documentation, StackOverflow, and ChatGPT.
 
 
 
